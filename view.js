@@ -1,4 +1,5 @@
 // ---- Define your dialogs  and panels here ----
+
 let new_effective_permissions = define_new_effective_permissions(
   "test-prefix",
   true
